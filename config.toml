@@ -8,7 +8,7 @@ canonifyurls    = true
 
 [params]
   title       = "Vidisha's Blog"
-  subtitle    = "Through the lens of a Software Developer..."
+  subtitle    = "A software Developer Saga"
   copyright   = "© 2018"
 
   description = "Contains post regrading sofwtare engineering"
