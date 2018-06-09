@@ -1,4 +1,4 @@
-baseurl         = "vidishajitani.com/"
+baseurl         = "http://vidishajitani.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "vidisha-jitani"
