@@ -7,10 +7,11 @@ paginate        = 6
 canonifyurls    = true
 
 [params]
-  title       = "Vidisha's Blog"
-  subtitle    = "A software Developer Saga"
+  title       = "A Software Developer's Saga"
+  subtitle    = ""
   copyright   = "© 2018"
 
+  cover = "img/blog-cover.jpg"
   description = "Contains post regrading sofwtare engineering"
   metaDescription = ""
   googleAnalytics = "UA-120517141-1"
