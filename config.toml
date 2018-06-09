@@ -1,14 +1,14 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "vidisha-jitani"
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
 
 [params]
-  title       = "Vidisha Jitani"
-  subtitle    = "Through the lens of a Software Developer"
+  title       = "Vidisha's Blog"
+  subtitle    = "Through the lens of a Software Developer..."
   copyright   = "© 2018"
 
   description = "Contains post regrading sofwtare engineering"
