@@ -1,0 +1,4 @@
+baseURL = "http://vidishajitani/"
+languageCode = "en-us"
+title = "Through the lens of a Software Developer"
+theme = "casper-two"
