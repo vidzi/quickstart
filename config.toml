@@ -13,7 +13,7 @@ canonifyurls    = true
 
   description = "Contains post regrading sofwtare engineering"
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-120517141-1"
   customCSS = []
   RSSLink = ""
 
