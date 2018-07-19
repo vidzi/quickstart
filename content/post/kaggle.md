@@ -5,7 +5,7 @@ linktitle: Awesomeness
 title: Getting Started with Kaggle
 weight: 10
 authorAvatar: hugo-logo.png
-image: kaggle.jpg
+image: img/kaggle.jpg
 published: true
 ---
 
