@@ -1,3 +1,14 @@
+---
+author: Vidisha Jitani
+date: 2018-07-19
+linktitle: Awesomeness
+title: Getting Started with Kaggle
+weight: 10
+authorAvatar: hugo-logo.png
+image: kaggle.jpg
+published: true
+---
+
 > Being a software engineer and You dont Knnnnow machine learning! You will get out of fashion pretty soon!
 
 Those are not my words. But, have been hearing them a lot now! So, I being a scared engineer, took up some online courses (yea, the Andrew NG one..) and read few books. But, I never got one thing - **Confidence**. So here I am, about to undertake a journey to gain that much needed confidence. I've decided to blog about it as well. So that, someday somebody might get benefit out of it. 
