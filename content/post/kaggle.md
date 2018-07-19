@@ -2,7 +2,7 @@
 author: Vidisha Jitani
 date: 2018-07-19
 linktitle: Awesomeness
-title: Getting Started with Kaggle
+title: My Experiments with Kaggle - Introduction
 weight: 10
 authorAvatar: hugo-logo.png
 image: img/kaggle_1.png
