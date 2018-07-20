@@ -5,7 +5,7 @@ linktitle: Awesomeness
 title: My Experiments with Kaggle - Introduction
 weight: 10
 authorAvatar: hugo-logo.png
-image: img/kaggle_1.png
+image: img/kaggle_3.png
 published: true
 ---
 
