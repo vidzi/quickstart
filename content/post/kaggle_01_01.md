@@ -35,7 +35,7 @@ A feature should consistently perform well on both training data and testing dat
 The dataset contained thousands of features. But, we wanted to choose only the most relevant features. But, why should we do this? _It makes the model simple, reduces overfitting and obviously the computational resources are preserved_. For selecting the most appropriate features, generally random forests algorithm is used. It is based on decision trees. These trees inherently rank all the features for choosing the splitting criteria of the tree. 
 
 So, how does a decision tree works?? A Decision tree has a root node at the top. Based on an internal node/condition, a tree is split into two branches. One branch satisfies the condition, and the other one doesn't. The end of the branch that doesn't split anymore is the leaf node, which finally predicts the output. 
-<image - decision tree>
+![0_Yclq0kqMAwCQcIV_.jpg]({{site.baseurl}}/content/post/0_Yclq0kqMAwCQcIV_.jpg)
 
 So, on what criteria the condition is chosen? _The measure based on which the optimal condition is chosen is called impurity._ For classification problems, it is either Gini impurity or information gain and for regression tree problems, it is variance. So, the condition as per which the child nodes has the minimum impurity is chosen. So that ideally only one type of class is their in a node which will give 100% accuracy. The lesser the impurity in a node, means more accuracy and thus better prediction. Thus, all the features are ranked based on their ability to provide cleaner child nodes.
 
