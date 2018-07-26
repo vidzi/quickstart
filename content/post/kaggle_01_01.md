@@ -6,6 +6,7 @@ linktitle: Awesomeness
 title: My First Kaggle Competition - Feature Engineering Without Domain Knowledge
 weight: 10
 authorAvatar: hugo-logo.png
+image: img/kaggle_3.png
 published: true
 ---
 
