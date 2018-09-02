@@ -7,12 +7,12 @@ paginate        = 6
 canonifyurls    = true
 
 [params]
-  title       = "A Software Developer's Saga"
+  title       = "All Things Backend"
   subtitle    = ""
   copyright   = "© 2018"
 
-  cover = "img/blog-cover.jpg"
-  description = "Contains post regrading sofwtare engineering"
+  cover = "img/bg-blog.jpg"
+  description = "Contains post regrading software engineering"
   metaDescription = ""
   googleAnalytics = "UA-120517141-1"
   customCSS = []
@@ -20,16 +20,16 @@ canonifyurls    = true
 
   twitterName = "vidishajitani25"
   fbName = "vidisha.jitani"
-  linkedinName = "vidishajitani"
+  linkedinName = "vidisha-jitani-02422978"
 
 
   showSupport = true
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  author = "Vidisha"
+  authorAvatar = "img/my-pic.jpg"
+  authorLocation = "Gurgaon, India"
+  authorWebsite = "https://vidishajitani.com"
+  authorDescription = "Lead Product Engineer"
 
   pageNotFoundTitle = "404 - Page not found"
 

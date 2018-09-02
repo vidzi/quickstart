@@ -1,5 +1,4 @@
 ---
-author: Vidisha Jitani
 date: 2018-07-19
 linktitle: Awesomeness
 title: My Experiments with Kaggle - Introduction

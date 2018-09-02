@@ -1,6 +1,5 @@
 
 ---
-author: Vidisha Jitani
 date: 2018-07-26
 linktitle: Awesomeness
 title: My First Kaggle Competition - Feature Engineering Without Domain Knowledge
