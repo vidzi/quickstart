@@ -7,7 +7,7 @@ paginate        = 6
 canonifyurls    = true
 
 [params]
-  title       = "All Things Backend"
+  title       = ""
   subtitle    = ""
   copyright   = "© 2018"
 
@@ -42,5 +42,9 @@ canonifyurls    = true
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 200
+  weight = 500
 
+[[menu.main]]
+  name = "Newsletter"
+  url = "subscribe.html"
+  weight = 500
