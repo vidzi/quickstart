@@ -46,5 +46,5 @@ canonifyurls    = true
 
 [[menu.main]]
   name = "Newsletter"
-  url = "subscribe.html"
+  url = "https://trilliondollartech.com"
   weight = 500
